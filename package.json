@@ -1,0 +1,33 @@
+{
+  "name": "react-scrollbox",
+  "version": "0.0.1",
+  "description": "A React component for custom scrollbars.",
+  "keywords": [
+    "react",
+    "react-component",
+    "scrollbars"
+  ],
+  "author": "ajliv <livingston.aj@gmail.com>",
+  "license": "ISC",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajliv/react-scrollbox.git"
+  },
+  "devDependencies": {
+    "autoprefixer-loader": "^3.1.0",
+    "babel": "^6.1.18",
+    "babel-loader": "^6.2.0",
+    "babel-preset-es2015": "^6.1.18",
+    "babel-preset-react": "^6.1.18",
+    "css-loader": "^0.22.0",
+    "less-loader": "^2.2.2",
+    "react": "^0.14.3",
+    "react-dom": "^0.14.3",
+    "style-loader": "^0.13.0",
+    "webpack": "^1.12.2"
+  }
+}
